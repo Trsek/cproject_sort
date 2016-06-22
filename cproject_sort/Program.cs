@@ -153,6 +153,7 @@ namespace cproject_sort
                     }
                 }
             }
+            writer_txt.Close();
         }
 
         /// <summary>
